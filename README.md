@@ -69,11 +69,15 @@ streamlit run app.py
 
 ## 📸 Скриншоты
 
+![Общая статистика](screenshots/screenshot5.png)
 ![Общая статистика](screenshots/image.png)
+![Общая статистика](screenshots/screenshot6.png)
+![Общая статистика](screenshots/screenshot7.png)
+![Общая статистика](screenshots/screenshot8.png)
 ![Общая статистика](screenshots/screenshot1.png)
 ![Общая статистика](screenshots/screenshot2.png)
 ![Общая статистика](screenshots/screenshot3.png)
-![Общая статистика](screenshots/screenshot4.png)
+
 
 ---
 
