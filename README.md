@@ -4,6 +4,8 @@
 
 **[Открыть дашборд](https://lastfmdashboard-drazsapp5ffyj3vu3n8kvcw.streamlit.app/)**
 
+**[Посмотреть дашборд в Metabase (PDF)](screenshots/Metabasedashboard.pdf)**
+
 ---
 
 ## 📊 Что внутри
